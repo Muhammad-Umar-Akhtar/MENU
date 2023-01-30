@@ -1,0 +1,52 @@
+.header {
+    background-color: #212529;
+    color: white;
+    font-weight: 500;
+    font-size: 4em;
+    height: 120px;
+    text-align: center;
+  }
+  .center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
+.intro {
+  height: 100%;
+}
+
+.gradient-custom-2 {
+  /* fallback for old browsers 
+  background: #6a11cb;
+
+  /* Chrome 10-25, Safari 5.1-6 
+  background: -webkit-linear-gradient(to top, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ 
+  background: linear-gradient(to top, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))*/
+}
+table{
+    color: #212529;
+}
+table td,
+table th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width:20px;
+}
+.color{
+    color: #212529;
+}
+thead th,
+tbody th {
+  color: #212529;
+  font-size: 1.5em;
+  width: 20px;
+}
+
+tbody td {
+  font-weight: 400;
+  font-size: 1.5em;
+  color: #212529;
+}
